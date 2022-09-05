@@ -38,6 +38,7 @@ public class T354 {
         }
         // hot-fix 修改的
         // github修改的
+        // 哈哈，慢慢就熟练使用github啦
         return res;
     }
 }
